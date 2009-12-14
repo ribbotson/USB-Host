@@ -1,6 +1,7 @@
  /*
  * MemoryFree.c
  * returns the number of free RAM bytes
+ * Modified to include functions to log minimum RAM
 */
 
 #include "WProgram.h"  
